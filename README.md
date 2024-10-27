@@ -2,7 +2,7 @@
 this is video a call app
 
 ## Getting Started  
-npm install
+npm install<br>
 npm start
 
 ## Deploy
